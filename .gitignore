@@ -1,0 +1,5 @@
+/target
+*.exe
+*.jsonl
+.vscode
+.DS_Store
